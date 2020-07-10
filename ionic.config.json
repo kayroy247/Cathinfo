@@ -1,0 +1,7 @@
+{
+  "name": "Cathoinfo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
